@@ -1,0 +1,4 @@
+#ultask li.done {
+    color: dimgrey;
+    text-decoration: line-through;
+}
